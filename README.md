@@ -2,5 +2,5 @@
 A simple collision (experimental) library for 2d games<br>
 made in c++
 
-## Usage
+## Installation
 * first ...
