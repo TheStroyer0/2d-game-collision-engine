@@ -4,3 +4,6 @@ made in c++
 
 ## Installation
 * first ...
+
+## Usage
+* first ...
