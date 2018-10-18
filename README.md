@@ -2,12 +2,22 @@
 A simple collision (experimental) library for 2d games<br>
 made in c++
 
+## Implementation
+This simple collision library is avail able for:
+* ``javascript``
+* ``c++``
+
 ## Content table
 * **[Installation](#installation)**
 * **[Usage](#usage)**
 
 ## Installation
-* first ...
+
+### Javascript
+* download ...
+
+### C++
+* download ...
 
 ## Usage
 * first ...
